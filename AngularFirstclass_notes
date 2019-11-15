@@ -1,0 +1,18 @@
+1) First Classssd
+
+  i)install nodejs global version(check version in cmd)
+  ii)install angular cli globally (use cmd)
+  iii) create new folder for angular project( with folder cmd root)
+  iii)go to code editer (cmd ---- code .)
+  iv) create angular project (ng new projectname)
+  v) run your angular server(ng server), if you terminate server(ctrl+c) --localhost:4200/projectname
+  vi)create new component like header(projectname>ng generate component header) or (projectname>ng g c header)
+  we created four files
+  - header.component.html ---you can include html this page
+  - header.component.spec.ts (presently not required)
+  - header.component.css (individual css)
+  - header.component.ts (header component selector, template, css)
+  
+  above content i learn created new project and component creations 
+ 
+
